@@ -1,7 +1,6 @@
 # Abstract
 * Conducted frequency analysis using FFT to identify noise characteristics, which informed the selection and subsequent design of a digital Butterworth low-pass filter using MATLAB.
 * Optimised filter parameters and performed comprehensive frequency response analysis, utilising visualisations of time and frequency domain signals (before and after filtering) and Bode diagrams to confirm the number of poles and cut-off frequency, ensuring attenuating unwanted frequencies while preserving the quality of signals.
-* **GitHub**: https://github.com/lenxium/DigiButterworthLPF
 
 # Sampling
 Digital filter passes analogue data to a processor that runs algorithms to digitally filter the data. Since all subsequent processing is digital, so the audio source [analogue input, denoted as x(t)] must first be sampled at a uniform rate f_s = 1/T_s. This sampling process [sometimes referred to as Analogue to Digital Converter(ADC)] transforms the continuous-time signal into discrete-time by recording its voltage amplitude at regular intervals. 
