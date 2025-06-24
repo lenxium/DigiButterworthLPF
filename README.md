@@ -37,7 +37,7 @@ Where n is the filter order (sets the roll-off of 20n dB/dec), w_c = 2*pi*f_c (c
 ![image](https://github.com/user-attachments/assets/71e157ef-3434-455a-be7c-ed66f0e4d476)
 
 # Reference
-[1] H. Austerlitz, Data Acquisition Techniques Using PCs, 2nd ed.Boston, MA, USA: Butterworth-Heinemann, 2003.
-[2] Anthony Croft & Robert Davison, Mathematics for Engineers, Pearson Education, 5th ed., 2019. 
-[3] A. Croft, R. Davison, M. Hargreaves, and J. Flint, Engineering Mathematics: A Foundation for Electronic, Electrical, Communications and Systems Engineers, 5th ed. Harlow, U.K.: Pearson Education, 2012. 
+* H. Austerlitz, Data Acquisition Techniques Using PCs, 2nd ed.Boston, MA, USA: Butterworth-Heinemann, 2003.
+* Anthony Croft & Robert Davison, Mathematics for Engineers, Pearson Education, 5th ed., 2019. 
+* A. Croft, R. Davison, M. Hargreaves, and J. Flint, Engineering Mathematics: A Foundation for Electronic, Electrical, Communications and Systems Engineers, 5th ed. Harlow, U.K.: Pearson Education, 2012. 
 
